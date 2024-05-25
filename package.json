@@ -4,9 +4,9 @@
   "license": "MIT",
   "scripts": {},
   "private": true,
-  "dependencies": {},
   "devDependencies": {
     "@nx/js": "19.1.0",
+    "@nx/remix": "^19.1.0",
     "@nx/workspace": "19.1.0",
     "nx": "19.1.0"
   }
